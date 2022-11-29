@@ -30,7 +30,7 @@ public  class NotePad extends Function implements ActionListener, KeyListener
    f1.add(ta);
       // File MenuItem Design
    file.add(ne = new JMenuItem("New"));
-   ne.setAccelerator(KeyStroke.getKeyStroke(KeyEvent.VK_N,ActionEvent.CTRL_MASK));
+   ne.setAccelerator(KeyStroke.getKeyStroke(KeyEvent.VK_N,KeyEvent.CTRL_MASK));
    file.add(win = new JMenuItem("New window"));
    win.setAccelerator(KeyStroke.getKeyStroke(KeyEvent.VK_N,KeyEvent.CTRL_MASK|KeyEvent.SHIFT_MASK));
    file.add(open = new JMenuItem("Open"));
