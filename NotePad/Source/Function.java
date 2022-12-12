@@ -78,7 +78,7 @@ public class Function
     if(f==true)
     {
       String s3 = JOptionPane.showInputDialog(f1,"replace");
-     s1= s1.replace(s2,s3);
+      s1= s1.replace(s2,s3);
       ta.setText(s1);
     }
     else
