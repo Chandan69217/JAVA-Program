@@ -23,7 +23,7 @@ class Iteam
 class Cal
 {
     public static void main(String agrs[])
-    {
+    { 
         Iteam I = new Iteam();
         I.read();
     }

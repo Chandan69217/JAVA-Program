@@ -13,7 +13,7 @@ public class SumDigitsChallenge {
     return(SumDigits);
    }
     public static void main(String agrs[]){
-        int Test = sumDigits(-12);
+        int Test = sumDigits(12);
         if(Test == -1){
             System.out.print("\nInvalid Input");
         }

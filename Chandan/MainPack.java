@@ -2,7 +2,6 @@ import MyPackages.bool;
 import MyPackages.Integer.*;
 import MyPackages.Integer.Fraction.*;
 import MyPackages.Integer.Fraction.String.*;
-import mypackages.*;
 
 class MainPack
 {
