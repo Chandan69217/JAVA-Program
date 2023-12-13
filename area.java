@@ -8,9 +8,8 @@ class Room
 }
 
 
-class area
-{ public static void main(String args[])
-  { double area;
+class area{ public static void main(String args[]){
+   double area;
     Room Room1;
     Room1=new Room();
     Room1.getdata(12,10);
